@@ -50,7 +50,7 @@ fun_fact: "I debug code like I solve puzzles — one piece at a time 🧩"
 <a href="https://github.com/mayuroop" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://instagram.com/btw.its.mayur" target="_blank">
+<a href="https://instagram.com/xeneo" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
